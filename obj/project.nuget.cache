@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n8f2EB75DP3lvmHmCbEIWKt2/Uv7uIdt0lPHRwXjk+J+0wCQCMRr2cGq8VIBpnWLqKFT+cO2eyoVKJThbbC3vw==",
+  "success": true,
+  "projectFilePath": "C:\\Workspaces\\Olipso\\Trabis\\Trabis.Test\\Trabis.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\necat\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

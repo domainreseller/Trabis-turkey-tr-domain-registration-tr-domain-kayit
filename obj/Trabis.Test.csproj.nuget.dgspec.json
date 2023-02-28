@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Workspaces\\Olipso\\Trabis\\Trabis.Test\\Trabis.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Workspaces\\Olipso\\Trabis\\Trabis.Test\\Trabis.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspaces\\Olipso\\Trabis\\Trabis.Test\\Trabis.Test.csproj",
+        "projectName": "Trabis.Test",
+        "projectPath": "C:\\Workspaces\\Olipso\\Trabis\\Trabis.Test\\Trabis.Test.csproj",
+        "packagesPath": "C:\\Users\\necat\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspaces\\Olipso\\Trabis\\Trabis.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\necat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

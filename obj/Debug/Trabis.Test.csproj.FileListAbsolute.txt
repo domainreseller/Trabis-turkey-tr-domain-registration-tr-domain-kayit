@@ -1,0 +1,9 @@
+C:\Workspaces\Olipso\Trabis\Trabis.Test\bin\Debug\Trabis.Test.exe.config
+C:\Workspaces\Olipso\Trabis\Trabis.Test\bin\Debug\Trabis.Test.exe
+C:\Workspaces\Olipso\Trabis\Trabis.Test\bin\Debug\Trabis.Test.pdb
+C:\Workspaces\Olipso\Trabis\Trabis.Test\bin\Debug\Newtonsoft.Json.dll
+C:\Workspaces\Olipso\Trabis\Trabis.Test\obj\Debug\Trabis.Test.csproj.AssemblyReference.cache
+C:\Workspaces\Olipso\Trabis\Trabis.Test\obj\Debug\Trabis.Test.csproj.CoreCompileInputs.cache
+C:\Workspaces\Olipso\Trabis\Trabis.Test\obj\Debug\Trabis.Test.csproj.CopyComplete
+C:\Workspaces\Olipso\Trabis\Trabis.Test\obj\Debug\Trabis.Test.exe
+C:\Workspaces\Olipso\Trabis\Trabis.Test\obj\Debug\Trabis.Test.pdb
